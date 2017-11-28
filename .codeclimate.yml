@@ -1,3 +1,4 @@
 engines:
   codenarc:
     enabled: true
+    channel: beta
