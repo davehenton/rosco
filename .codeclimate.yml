@@ -1,0 +1,3 @@
+engines:
+  codenarc:
+    enabled: true
